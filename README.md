@@ -1,4 +1,4 @@
-# Temas_Selectos_FC
+# Temas_Selectos_FC (Para el curso)
 Tarea Física computacional 1.1
 Configuración del ambiente de trabajo (primer repositorio)
 
